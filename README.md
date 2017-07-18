@@ -1,2 +1,2 @@
 # Comercio_CENTROM
-Proyecto E-learning comercio electrónico 
+Proyecto final de comercio electrónico E-learning (CENT-ROM)
